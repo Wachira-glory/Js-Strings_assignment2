@@ -1,0 +1,314 @@
+.container1{
+    background-color: #454545;
+    height:40px;
+}
+.moling{
+    color: white; 
+    padding: 10px 10px 10px 381px ;
+    
+}
+body{
+    margin-left: 10%;
+}
+.img{
+height: 50px;
+width: 50px;
+margin-left: 80%;
+       
+}
+.email{
+    float: left;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+
+}
+.phone{
+    float: right;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 0%;
+    margin-right: 30%;
+}
+.navbar{
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 35%;
+    
+}
+a.active{
+    color:orange;
+}
+.heroimg{
+    width: 85%;
+    height: 17%;
+    padding-right: 40px;
+   filter: contrast(30%);
+   margin-right: 65%;
+}
+.movinggg{
+    font-size: 300%;
+    font-weight: bold;
+}
+.firstcontent{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10%;
+}
+.onclick{
+    background-color: orange;
+    color: white;
+    padding:15px 23px 15px 23px;
+    border: none;
+}
+.learn{
+    color:orange;
+}
+.moving{
+    font-size: 178%;
+    font-weight: bold;
+}
+.learn1{
+    margin-left: 20%;
+    display: flex;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap:5%;
+   
+    
+}
+.learn2{
+   
+    margin-right: 80%;
+}
+.lorem{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+.services{
+    color: orange;
+    text-align: center;
+}
+h1{
+    font-size: 218%;
+    font-weight: bold;
+    text-align: center;
+}
+.whatwedo{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 20%;
+    margin-right: 22%;
+    text-align: center;
+    gap:20px;
+
+}
+.rt{
+    margin-left: 20%;
+    display: flex;
+    gap:10%;
+    
+}
+
+.active2{
+    color: blue;
+}
+.video{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 20%;
+}
+.helping{
+    font-size: 280%;
+    margin-left: 10%;
+}
+.moving1{
+    background-image: url("images/moving1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .bg-img {
+    background-image: url("images/l4.jpeg");
+    min-height: 880px;
+    position: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .container {
+    position: absolute;
+    right: 0;
+    width: 1150px;
+    padding: 16px;
+    background-color: white;
+    background-color:#0047AB;
+    background-size: 85%;
+    height: 354px;
+    
+    
+    
+
+  }
+  
+ 
+  input[type=text], input[type=password] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  
+  .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+}
+.yellowback{
+    background-color: orange;
+    height:330px;
+   
+}
+.thisisabox{
+    height:580px;
+    align-items: baseline;
+
+}
+.book{
+    margin-left: 10%;
+    padding-top: 39px;
+    font-size: 180%;
+    color: white;
+}
+.m1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10%; 
+}
+.sidebar {
+    display: flex;
+    padding: 16px;
+  }
+  .describe-riaad {
+    color: black;
+  }
+  a .riaad {
+    color: black;
+  }
+  .year {
+    font-size: 30px;
+    color: black;
+    padding-top: 8px;
+  }
+  .lorem {
+    padding: 0px 16px;
+  }
+  .ema{
+    font-weight: lighter;
+    color: grey;
+  }
+  .ria{
+    margin-left: 34%;
+  }
+  .sed{
+    display: flex;
+    gap:30px;
+  }
+  .since{
+    margin-left: 10%;
+  }
+  .wwe{
+    font-size: 170%;
+  }
+  .click{
+    margin-top: 16%;
+  }
+  .why{
+    color: orange;
+  }
+  ul{
+    list-style-image: url("images/tick.png")
+  }
+  .over{
+    font-size: 140%;
+  }
+  .donot{
+    text-align: center;
+    font-size: 140%;
+    color: gray;
+  }
+  .online{
+    color: orange;
+  }
+  .play{
+    margin-left: 40%;
+    margin-bottom: 33%;
+  }
+  .button2{
+    background-color:rgb(44, 40, 40);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 4px;
+    font-style: initial;}
+    .footer{
+      display: grid;
+      grid-template-columns: auto auto;
+      background-color: rgb(240, 170, 40);
+      padding-top: 50px;
+      padding-bottom: 50px;
+      text-align: center;
+    }
+    .footer2{
+      display: flex;
+      gap: 60px;
+      color: rgb(228, 221, 235);
+      background-color: black;
+  }
+  .body{
+    @media screen and (max-width:600px) {
+        width:100%;
+    }
+    align-content: center;
+    margin: 20%;
+}
